@@ -5,7 +5,10 @@ public class Main {
 
         int increment = increment(num);
 
+        int newNumber = increment(increment);
+
         System.out.println(increment);
+        System.out.println(newNumber);
     }
 
     public static int increment(int number) {
