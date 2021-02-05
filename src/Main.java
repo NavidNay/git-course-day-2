@@ -9,6 +9,7 @@ public class Main {
 
         System.out.println(increment);
         System.out.println(newNumber);
+        System.out.println(newNumber);
     }
 
     public static int increment(int number) {
